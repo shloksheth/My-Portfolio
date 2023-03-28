@@ -1,0 +1,38 @@
+* {
+    border:none;   
+}
+.header {
+    display: flex;
+    font-size: 32px;
+    background-color: rgb(42, 122, 188);
+    justify-content: space-around;
+}
+
+.header h1{
+    margin:28.3px;
+    margin-left: 1px;
+} 
+
+.menu {
+    display: flex;
+    padding-top: 130px;
+    margin-bottom: 20px;
+    padding-right: 790px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #1b27d3;
+    background-color: rgb(14, 31, 84);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.menu :hover {
+    text-decoration: none;
+    color: #040951;
+}
+
+body {
+    background-color: #42acff;
+}

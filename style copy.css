@@ -1,0 +1,19 @@
+* {
+    border: none;
+}
+.header {
+    display: flex;
+    font-size: 32px;
+    background-color: rgb(42, 122, 188);
+    justify-content: space-evenly;
+}
+
+.menu {
+    display: flex;
+    padding-top: 25px;
+    justify-content: space-around;
+}
+
+body {
+    background-color: #42acff;
+}
